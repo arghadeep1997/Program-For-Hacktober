@@ -1,1 +1,0 @@
-# Program-For-Hacktober
